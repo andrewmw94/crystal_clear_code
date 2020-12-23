@@ -1,0 +1,1 @@
+/usr/local/bin/clang++  -g  -rdynamic CMakeFiles/sat_solver.dir/scripts/main.cpp.o CMakeFiles/sat_solver.dir/src/dpll.cpp.o  -o bin/sat_solver 

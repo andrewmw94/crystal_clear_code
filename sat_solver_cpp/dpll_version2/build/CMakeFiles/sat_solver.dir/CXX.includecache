@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sat_solver_cpp/dpll.hpp
+vector
+-
+string
+-
+memory
+-
+
+/home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version2/scripts/main.cpp
+sat_solver_cpp/dpll.hpp
+-
+string
+-
+iostream
+-
+chrono
+-
+
+/home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version2/src/dpll.cpp
+sat_solver_cpp/dpll.hpp
+-
+fstream
+-
+iostream
+-
+sstream
+-
+

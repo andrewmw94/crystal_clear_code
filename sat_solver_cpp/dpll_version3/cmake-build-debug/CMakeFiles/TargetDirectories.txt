@@ -1,0 +1,3 @@
+/home/awells/Development/crystal_clear_code/sat_solver_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/awells/Development/crystal_clear_code/sat_solver_cpp/cmake-build-debug/CMakeFiles/sat_solver.dir
+/home/awells/Development/crystal_clear_code/sat_solver_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir

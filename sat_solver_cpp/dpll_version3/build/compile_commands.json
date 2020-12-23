@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version3/build",
+  "command": "/usr/local/bin/clang++   -I/home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version3/include  -g   -W -Wall -Wextra -Wno-missing-field-initializers -Wno-unused -Wno-unused-parameter -Wno-delete-non-virtual-dtor -Wno-overloaded-virtual -Wno-unknown-pragmas -Qunused-arguments -Wno-deprecated-register -Wno-mismatched-tags -std=c++1z -o CMakeFiles/sat_solver.dir/scripts/main.cpp.o -c /home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version3/scripts/main.cpp",
+  "file": "/home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version3/scripts/main.cpp"
+},
+{
+  "directory": "/home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version3/build",
+  "command": "/usr/local/bin/clang++   -I/home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version3/include  -g   -W -Wall -Wextra -Wno-missing-field-initializers -Wno-unused -Wno-unused-parameter -Wno-delete-non-virtual-dtor -Wno-overloaded-virtual -Wno-unknown-pragmas -Qunused-arguments -Wno-deprecated-register -Wno-mismatched-tags -std=c++1z -o CMakeFiles/sat_solver.dir/src/dpll.cpp.o -c /home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version3/src/dpll.cpp",
+  "file": "/home/awells/Development/crystal_clear_code/sat_solver_cpp/dpll_version3/src/dpll.cpp"
+}
+]
